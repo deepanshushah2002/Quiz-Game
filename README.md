@@ -1,4 +1,4 @@
-# quiz_game
+# Quiz Game
 
 A new Flutter project.
 
